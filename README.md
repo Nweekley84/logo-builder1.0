@@ -56,9 +56,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 5. Once completed a SVG file named "logo.svg" will be created.
 6. You can rename the "logo.svg" file to the file name of your choice.
 
-## Solution URL:
-[Solution URL Link:](https://Nweekley84.github.io/logo-builder1.0)
-
 ## Video:
 [Click Here to Watch]()
 
