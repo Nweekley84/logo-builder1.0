@@ -57,7 +57,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 6. You can rename the "logo.svg" file to the file name of your choice.
 
 ## Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1x0v3289X4gxlMnzK3V-lph-NCsZGRli3/view?usp=sharing)
 
 ## Screenshots:
 ### Figure 1. Command line application
